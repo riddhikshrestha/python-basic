@@ -7,11 +7,11 @@
 
 4.numpy
 
-5. pandas
+5.pandas
 
-6. matplotlib
+6.matplotlib
 
-7. seaborn
+7.seaborn
 
-8. basic of eda
+8.basic of eda
 
